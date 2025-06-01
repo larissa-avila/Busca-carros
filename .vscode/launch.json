@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
+      "externalConsole": false,
       "cwd": "c:/Users/avila/OneDrive/Programas/github/Nova pasta/Busca-carros",
       "program": "c:/Users/avila/OneDrive/Programas/github/Nova pasta/Busca-carros/build/Debug/outDebug",
       "MIMode": "gdb",
